@@ -2,22 +2,21 @@
 PLUVERA
 
 
-<img width="416" height="870" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8d213e89-09e7-42c0-9639-6073aca10426" />
-<img width="416" height="873" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/efab82e1-cfcb-4f2c-8271-f33e2491e6b9" />
-<img width="411" height="874" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ddc0f77d-3472-4c1c-8cd8-ba57b607cb24" />
-<img width="411" height="874" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/a44e12a5-1ae1-40a1-bc70-efeddddc496e" />
-<img width="412" height="871" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/436a6f44-9a20-44ea-98a9-583470cecad9" />
-<img width="416" height="868" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/78c5aeb7-df1e-499f-ae5d-62713df35dec" />
-<img width="414" height="869" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e87bb0f4-4600-4b44-9bcf-b7e71777a591" />
-<img width="412" height="869" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/f8ecdefe-85fd-47d9-848e-d0a7ed2dfbd7" />
-<img width="412" height="875" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/c7c6cc96-920e-4b88-a240-166cbc15a6de" />
-<img width="412" height="869" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/64019693-b984-448b-abfa-a35a93484c99" />
-<img width="412" height="879" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f2f75db1-45b1-4cbe-b0fb-7c9a3b4fc680" />
-<img width="411" height="869" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/6a0781a3-a7e9-4b64-8a64-585bc53efc4f" />
-<img width="415" height="870" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/297241ca-c3bf-46c8-a90e-3011dc38a456" />
-<img width="411" height="873" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/c7f12e2b-c146-466e-8e69-da0a4bc10ce9" />
-<img width="414" height="869" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/2ef0f364-3116-4d3b-86a2-3e4fc1ae3354" />
-<img width="412" height="869" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/70bafc13-eaad-44f9-902f-554e9ee5ed36" />
+
+<img width="413" height="873" alt="1" src="https://github.com/user-attachments/assets/e44e401d-76e8-4759-b3f5-bbb0fe8d87c4" />
+<img width="415" height="870" alt="14" src="https://github.com/user-attachments/assets/58475cb7-a8d7-416c-8062-ffbfe3002800" />
+<img width="416" height="870" alt="13" src="https://github.com/user-attachments/assets/eb59be4f-8859-4f84-afeb-fff5e997884c" />
+<img width="411" height="869" alt="12" src="https://github.com/user-attachments/assets/40e514ac-82c4-4067-b2a5-82574ed60081" />
+<img width="411" height="873" alt="11" src="https://github.com/user-attachments/assets/23ddce48-0da6-423f-b6aa-60d066c8363d" />
+<img width="416" height="873" alt="10" src="https://github.com/user-attachments/assets/2d30df20-048f-4f82-bd1d-c6319f38d2b3" />
+<img width="411" height="874" alt="9" src="https://github.com/user-attachments/assets/df4f98fc-dbab-467f-bcfe-a209603883c5" />
+<img width="411" height="874" alt="8" src="https://github.com/user-attachments/assets/42d1ac91-c61c-4fc5-a5e5-5b9e032bd383" />
+<img width="412" height="871" alt="7" src="https://github.com/user-attachments/assets/90ea2c98-1d6b-485b-8808-7d4e18159924" />
+<img width="416" height="868" alt="6" src="https://github.com/user-attachments/assets/9fa033c8-8902-432f-bc45-f862fba8c5cb" />
+<img width="414" height="869" alt="5" src="https://github.com/user-attachments/assets/fc16d482-ae4f-43cf-8f42-a7b493d19a9d" />
+<img width="412" height="869" alt="4" src="https://github.com/user-attachments/assets/867b716f-eaa8-4427-b390-63c115e3b956" />
+<img width="412" height="875" alt="3" src="https://github.com/user-attachments/assets/2c1351e2-bf89-4f5e-9539-6a9bcc8d22b7" />
+<img width="412" height="879" alt="2" src="https://github.com/user-attachments/assets/2a34aa81-011b-4036-a526-592b91e16f9a" />
 
 <img width="1000" height="951" alt="PL2" src="https://github.com/user-attachments/assets/1adf68b1-ece3-4d46-969b-c7e6497f03ac" />
 <img width="1000" height="966" alt="PL3" src="https://github.com/user-attachments/assets/e78b5704-dedc-4430-a250-109f777a7f7e" />
