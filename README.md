@@ -1,5 +1,149 @@
 
-PLUVERA
+
+
+
+
+
+
+# PLUVERA – Advanced SMS & WiFi Control System
+
+PLUVERA is a modern, powerful, and intelligent remote-control system designed for industrial, commercial, and smart-home applications. It allows full control of electrical equipment through **SMS** and **WiFi**, combining reliability, speed, and advanced hardware features.
+
+---
+
+## 🚀 Hardware Features
+
+### 🔌 Outputs
+- **Two Relays – 5A**
+- **One Relay – 16A** (suitable for heavy loads)
+- **One 220V Triac Dimmer – 6A** (fan/motor speed control)
+
+### ⚡ Power Input
+- **12V / 3A power input**
+
+### 🛡️ Safety & System
+- High-quality **EMI isolation modules**
+- **Back-up battery + RTC** (keeps time/date)
+- **Resettable fuses** for instant protection
+- Fully stable in industrial environments
+
+---
+
+## 🔗 Connectivity
+- **Micro USB** port for:
+  - Firmware flashing  
+  - Computer connection  
+  - Direct programming  
+
+---
+
+## 📱 Mobile Application (Android & iOS)
+- Modern, beautiful, and user-friendly interface  
+- Very lightweight and fast  
+- Supports **4 international languages**  
+- Full control of **3 Relays + 1 Dimmer**  
+- Configuration over **SMS** or **WiFi**  
+- Custom animation/theme editing  
+- Fast OTA updates  
+
+---
+
+## 🌐 Communication Features
+
+### SMS Control:
+- Set output states  
+- Read device status  
+- Configure system remotely  
+
+### WiFi Control:
+- Dashboard configuration  
+- Output scheduling  
+- Dimmer control  
+- Online updates  
+
+---
+
+## 🔄 Update Policy
+PLUVERA receives updates **every 10 days**, based on customer requests and improvements.
+
+---
+
+## 🧩 Available Files
+This repository includes:
+- **Complete hardware schematic**
+- **HEX file** for the main controller
+- Supporting documents & resources
+
+---
+
+## 📦 How to Get PLUVERA Sources
+
+### 1. Buy the complete device  
+Includes hardware + mobile app.
+
+### 2. Purchase PCB files  
+For customers who want to assemble manually.
+
+### 3. Purchase full source code  
+Recommended for manufacturers who want to build or customize their own product.
+
+---
+
+## 📞 Contact  
+**Persian Electronic Pouya**
+
+- **Phone:** +98 935 391 2827  
+- **Email:** pepoya.info@gmail.com  
+- **Telegram:** @persian_electronic_poya  
+
+
+                     ┌──────────────────────────┐
+                     │        Power Input        │
+                     │       12V DC / 3A         │
+                     └─────────────┬────────────┘
+                                   │
+                        ┌──────────┴──────────┐
+                        │   Power Regulation   │
+                        │  Protection Fuses &  │
+                        │     Isolators        │
+                        └──────────┬──────────┘
+                                   │
+                     ┌─────────────┴────────────────┐
+                     │        Main Controller        │
+                     │   (Microcontroller + RTC)     │
+                     └───────┬───────────┬──────────┘
+                             │           │
+                ┌────────────┘           └────────────┐
+                │                                       │
+        ┌───────┴────────┐                    ┌────────┴────────┐
+        │   GSM Module    │                    │    WiFi Module   │
+        │   SMS Control   │                    │ Local Web Config │
+        └───────┬────────┘                    └────────┬────────┘
+                │                                       │
+          SMS Commands                           WiFi Dashboard
+                │                                       │
+                └──────────┬───────────────────┬────────┘
+                           │                   │
+           ┌───────────────▼──────────────┐    │
+           │        Output Drivers         │    │
+           │  2 × Relay 5A                 │    │
+           │  1 × Relay 16A                │    │
+           │  1 × Triac Dimmer (6A)        │    │
+           └───────────────┬──────────────┘    │
+                           │                   │
+                      Electrical Loads         │
+       (Motors, Fans, Lamps, Pumps, Heaters)   │
+                                               │
+                                     ┌─────────▼─────────┐
+                                     │   Mobile App       │
+                                     │ Android / iOS      │
+                                     │ Full Control +     │
+                                     │ Configuration      │
+                                     └────────────────────┘
+
+
+
+
 
 
 <img width="412" height="879" alt="2" src="https://github.com/user-attachments/assets/2a34aa81-011b-4036-a526-592b91e16f9a" />
