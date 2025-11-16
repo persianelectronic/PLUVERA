@@ -1,8 +1,8 @@
 <h1 align="center" style="font-weight:900; font-size:42px;">⭐ PLUVERA ⭐</h1>
 
-<h2 align="center">سیستم کنترل پیامکی و وای‌فای فوق‌پیشرفته<br/> <span style="color:#ff6600;">PLUVERA</span> ⚡ Modern SMS & WiFi Controller</h2>
+<h2 align="center">سیستم کنترل پیامکی و وای‌فای فوق‌پیشرفته<br/> <span style="color:#ff6600;"></span> ⚡ Modern SMS & WiFi Controller⚡</h2>
 
-<p align="center"><b>یک سامانهٔ مدرن و امن برای کنترل رله‌ها، دیمر و تجهیزات برقی از راه دور — از طریق SMS و WiFi.</b></p>
+<p align="center"><b>یک سامانهٔ مدرن و امن برای کنترل رله‌ها، دیمر و تجهیزات برقی از راه دور — از طریق SMS و WiFi</b></p>
 
 ---
 
@@ -87,7 +87,7 @@
 
 <h2>📞 تماس و پشتیبانی</h2>
 <ul>
-  <li>📞 تماس: <strong><span dir="ltr">+98 935 391 2827</span></strong></li>
+  <li>📞 تماس: <strong><span dir="ltr">0935 391 2827</span></strong></li>
   <li>✉️ ایمیل: <strong>pepoya.info@gmail.com</strong></li>
   <li>💬 تلگرام: <strong>persian_electronic_poya</strong></li>
 </ul>
