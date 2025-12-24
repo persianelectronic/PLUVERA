@@ -40,6 +40,38 @@
 
 <hr/>
 
+<h2>🌡️ پشتیبانی از سنسور دما و رطوبت</h2>
+<p>
+سیستم <strong>PLUVERA</strong> قابلیت اتصال و پشتیبانی از سنسورهای دقیق دما و رطوبت زیر را دارد:
+</p>
+
+<ul>
+  <li>🌡️ <strong>AM1011</strong></li>
+  <li>🌡️ <strong>AM1001</strong></li>
+  <li>🌡️ <strong>AM2301 (DHT21)</strong></li>
+</ul>
+
+<p>
+این سنسورها امکان اندازه‌گیری دقیق <strong>دما</strong> و <strong>رطوبت محیط</strong> را فراهم کرده و اطلاعات به‌صورت لحظه‌ای از طریق <strong>SMS</strong> و <strong>WiFi</strong> قابل مشاهده و مدیریت هستند.
+</p>
+
+<h3>✨ قابلیت‌های مرتبط با سنسور</h3>
+<ul>
+  <li>📊 نمایش زنده دما و رطوبت در اپلیکیشن موبایل</li>
+  <li>📩 دریافت مقادیر دما و رطوبت از طریق پیامک (SMS)</li>
+  <li>⚙️ تعریف آستانه‌های حداقل و حداکثر (Min / Max)</li>
+  <li>🚨 ارسال هشدار پیامکی در صورت عبور از محدودهٔ مجاز</li>
+  <li>🔁 کنترل خودکار رله‌ها یا دیمر بر اساس دما یا رطوبت</li>
+  <li>🧠 مناسب برای گلخانه، سردخانه، موتورخانه، تهویه، فن و پروژه‌های صنعتی</li>
+</ul>
+
+<p>
+این قابلیت، <strong>PLUVERA</strong> را به یک <strong>کنترلر هوشمند محیطی</strong> تبدیل می‌کند که علاوه بر کنترل دستی، امکان عملکرد کاملاً خودکار بر اساس شرایط محیط را نیز دارد.
+</p>
+<p>
+
+<hr/>
+
 <h2>📡 مشخصات انتقال داده</h2>
 <ul>
   <li>🔌 یک کانکتور <strong>Micro USB</strong> برای برنامه‌ریزی، اتصال به کامپیوتر و به‌روزرسانی</li>
@@ -142,6 +174,28 @@ PLUVERA is a modern, powerful, and intelligent remote-control system designed fo
 - **Back-up battery + RTC** (keeps time/date)
 - **Resettable fuses** for instant protection
 - Fully stable in industrial environments
+
+---
+
+## 🌡️ Temperature & Humidity Sensor Support
+
+**PLUVERA** supports professional temperature and humidity sensors, including:
+
+- **AM1011**
+- **AM1001**
+- **AM2301 (DHT21)**
+
+These sensors provide accurate real-time environmental data and are fully integrated into the system via **SMS** and **WiFi**.
+
+### ✨ Sensor Features
+- 📊 Live temperature and humidity monitoring via mobile app  
+- 📩 Read sensor values through SMS commands  
+- ⚙️ Configurable minimum and maximum thresholds  
+- 🚨 Automatic SMS alerts when limits are exceeded  
+- 🔁 Intelligent relay or dimmer control based on temperature or humidity  
+- 🧠 Ideal for greenhouses, cold storage, HVAC systems, fan and motor control, and industrial automation  
+
+This feature transforms **PLUVERA** into a **smart environmental controller**, enabling both manual and fully automated operation based on real-world conditions.
 
 ---
 
